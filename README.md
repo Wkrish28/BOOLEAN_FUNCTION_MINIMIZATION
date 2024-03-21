@@ -52,10 +52,10 @@ endmodule
 ```
 **RTL realization**
 ![image](https://github.com/Wkrish28/BOOLEAN_FUNCTION_MINIMIZATION/assets/144295230/fa8989ed-55a2-4048-93ad-4916b7f3542c)
+**Truth Table**
+![image](https://github.com/Wkrish28/BOOLEAN_FUNCTION_MINIMIZATION/assets/144295230/6a76ce7e-5fe0-430e-8edf-0138e762a101)
 
 **Output:**
-**TruthTable**
-![image](https://github.com/Wkrish28/BOOLEAN_FUNCTION_MINIMIZATION/assets/144295230/6a76ce7e-5fe0-430e-8edf-0138e762a101)
 
 **RTL**
 **Timing Diagram**
